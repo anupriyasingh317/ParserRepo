@@ -1,4 +1,4 @@
 {
-    "workspaceFolder": ".devcontainer/devcontainer.json",
-    "postCreateCommand": "git clone https://RapidX-Flashlight@dev.azure.com/RapidX-Flashlight/RapidX-Flashlight/_git/app-codescout .devcontainer/devcontainer.json"
+    "workspaceFolder": "code",
+    "postCreateCommand": "git clone https://RapidX-Flashlight@dev.azure.com/RapidX-Flashlight/RapidX-Flashlight/_git/app-codescout code"
 }
